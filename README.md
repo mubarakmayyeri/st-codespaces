@@ -29,3 +29,7 @@ If it weren't for the `.streamlit/config.toml` file, you would have had to run t
 ```bash
 streamlit hello --server.enableCORS false --server.enableXsrfProtection false
 ```
+
+## What is CORS and XsrfProtection?
+
+[https://discuss.streamlit.io/t/when-to-use-enablecors-and-enablexsrfprotection-parameters/32075](https://discuss.streamlit.io/t/when-to-use-enablecors-and-enablexsrfprotection-parameters/32075/3)
