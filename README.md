@@ -32,4 +32,4 @@ streamlit hello --server.enableCORS false --server.enableXsrfProtection false
 
 ## What is CORS and XsrfProtection?
 
-[https://discuss.streamlit.io/t/when-to-use-enablecors-and-enablexsrfprotection-parameters/32075](https://discuss.streamlit.io/t/when-to-use-enablecors-and-enablexsrfprotection-parameters/32075/3)
+[When to use enableCORS and enableXsrfProtection](https://discuss.streamlit.io/t/when-to-use-enablecors-and-enablexsrfprotection-parameters/32075/3)
